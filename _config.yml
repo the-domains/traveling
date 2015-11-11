@@ -1,0 +1,23 @@
+name: traveling
+favicon: null
+layout_spectrum: 0.04667401732876897
+typography_spectrum: 0.7566700517199934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09229957219213247
+  lightness: 0.049735194304957986
+  saturation: 0.8762114457786083
+  rhythmicContrast: 0.8871200412977487
+purpose: []
