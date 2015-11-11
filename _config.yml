@@ -2,6 +2,7 @@ name: traveling
 favicon: null
 layout_spectrum: 0.04667401732876897
 typography_spectrum: 0.7566700517199934
+title: 'travelling '
 cta:
   domain: null
   bucket: null
